@@ -6,8 +6,8 @@
 			"sources": [
 				"https://raw.githubusercontent.com/GrimmsterZed/hosting/refs/heads/main/sorenpixelheart.png"
 			],
-			"x": 0,
-			"y": 0
+			"x": 100,
+			"y": 100
 		}
 	],
 	"whitelist": [],
